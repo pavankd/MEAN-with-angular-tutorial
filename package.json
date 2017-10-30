@@ -1,0 +1,29 @@
+{
+  "name": "mean-angular",
+  "version": "1.0.0",
+  "description": "MEAN Stack with Angular",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavankd/MEAN-with-angular-tutorial.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack",
+    "with",
+    "angular"
+  ],
+  "author": "pavan dasari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavankd/MEAN-with-angular-tutorial/issues"
+  },
+  "homepage": "https://github.com/pavankd/MEAN-with-angular-tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.12.5"
+  }
+}
